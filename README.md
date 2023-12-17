@@ -16,4 +16,4 @@ It is currently set to
   data = spark.read.csv("/Users/oliviaduong/Downloads/Cloud/ml-latest-small/ratings.csv", inferSchema = True, header = True).
 
 ## Execute Code
-python Rec.py
+`python Rec.py`
