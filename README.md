@@ -1,7 +1,7 @@
 # Entertainment Recommendation System: Personalized Movie Engine Powered by Apache Spark 
 Collaborative Filtering | Movie Rating Prediction
 
-Database: https://grouplens.org/datasets/movielens/
+** Database: https://grouplens.org/datasets/movielens/
 <br>
 Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018.
 
