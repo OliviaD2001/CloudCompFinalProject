@@ -1,4 +1,4 @@
-# ** Entertainment Recommendation System: Personalized Movie Engine Powered by Apache Spark **
+# Entertainment Recommendation System: Personalized Movie Engine Powered by Apache Spark 
 Collaborative Filtering | Movie Rating Prediction
 
 Database: https://grouplens.org/datasets/movielens/
