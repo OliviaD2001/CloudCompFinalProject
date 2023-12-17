@@ -12,7 +12,8 @@ Collaborative filtering is based on combo of relevant userâ€™s and other usersâ€
 ## Directory Path
 Ensure to change directory in line 9 of Rec.py to your dataset path. 
 <br>
-It is currently set to data = spark.read.csv("/Users/oliviaduong/Downloads/Cloud/ml-latest-small/ratings.csv", inferSchema = True, header = True).
+It is currently set to 
+  data = spark.read.csv("/Users/oliviaduong/Downloads/Cloud/ml-latest-small/ratings.csv", inferSchema = True, header = True).
 
 ## Execute Code
 python Rec.py
